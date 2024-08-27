@@ -2,8 +2,8 @@
 
 This is the prototype PCB with AMBE3000R for Nucleo-H723 that has been used for the development of the MMDVM Transcoder and CrossMode projects.
 
-![transcoder prototype pcb1](nucleo-hat1.jpg "Nucleo AMBE3000 HAT")
-![transcoder prototype pcb2](nucleo-hat2.jpg "Nucleo AMBE3000 HAT")
+![transcoder prototype pcb1](nucleo-hat-1.jpg "Nucleo AMBE3000 HAT")
+![transcoder prototype pcb2](nucleo-hat-2.jpg "Nucleo AMBE3000 HAT")
 
 The prototype board plugs into the ST Micro Nucleo-H723 evaluation board. 
 https://www.st.com/en/evaluation-tools/nucleo-h723zg.html
